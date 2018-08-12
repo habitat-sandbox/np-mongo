@@ -1,5 +1,5 @@
 pkg_origin=habitat-sandbox
-pkg_name=np-mongodb
+pkg_name=np-mongo
 pkg_version=3.2.9
 pkg_description="Mongodb for National-Parks app"
 pkg_maintainer="echohack"
