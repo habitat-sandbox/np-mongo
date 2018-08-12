@@ -1,6 +1,6 @@
 pkg_origin=habitat-sandbox
 pkg_name=np-mongo
-pkg_version=4.0
+pkg_version=7.0
 pkg_description="Mongodb for National-Parks app"
 pkg_maintainer="echohack"
 pkg_license=('AGPL-3.0')
